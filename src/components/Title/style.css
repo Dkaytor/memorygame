@@ -1,0 +1,31 @@
+.title {
+ 
+  text-align: center;
+  font-size: 3rem;
+  text-decoration: underline;
+  color: #2A77AE;
+  margin-bottom: 100px;
+ 
+}
+ .jumbotron {
+   
+   background-color: green;
+   color: white;
+   text-align: center;
+   width: 100%;
+ }
+
+ .line {
+   text-align: center;
+   width: 100%;
+ }
+
+ .row {
+   width: 100%;
+    color: white;
+   text-align: center;
+ }
+
+ .header {
+   background-color: green;
+ }

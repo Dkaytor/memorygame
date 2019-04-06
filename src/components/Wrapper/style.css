@@ -1,0 +1,24 @@
+.wrapper {
+  padding-top: 50px;
+  background: gray;
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 20px;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+}
+
+.brand {
+ width: 33.3%;
+  background-color: darkkhaki;
+  text-align: center;
+  color: white;
+}
+.row {
+  height: 70px;
+}
+
+
+
